@@ -1,4 +1,7 @@
 #Take the five friends as a,b,c,d and e
+
+print('Hello - this is a birthday date program')
+
 print("Hi! a")
 a=input("Enter your birthday date:")
 print("Hi! b")
